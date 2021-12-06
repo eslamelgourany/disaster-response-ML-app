@@ -69,7 +69,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact <a name="Contact"></a>
 
-Eslam Elgourany - [@Eslam Elgourany](https://www.linkedin.com/in/eslam-elgourany-75b346111) - eslamelgourany@hotmail.com
+[@Eslam Elgourany](https://www.linkedin.com/in/eslam-elgourany-75b346111) - eslamelgourany@hotmail.com
 
 
 <!-- ACKNOWLEDGMENTS -->
