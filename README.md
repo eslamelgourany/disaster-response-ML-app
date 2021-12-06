@@ -1,5 +1,4 @@
-# disaster-response-ML-app
-
+# Disaster response App
 
 <div id="top"></div>
 
