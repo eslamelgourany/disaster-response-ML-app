@@ -101,5 +101,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgments <a name="Acknowledgments"></a>
 I find it very helpful and useful to provide such nice data and information to the public.
 
-* Thank you [Figure eight](https://en.wikipedia.org/wiki/Figure_Eight_Inc.) for providing such great dataset.
+* Thanks to [Figure eight](https://en.wikipedia.org/wiki/Figure_Eight_Inc.) for providing such great dataset.
 * Credits as well to the parent organization: [Appen](https://appen.com/)
