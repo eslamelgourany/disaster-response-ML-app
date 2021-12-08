@@ -53,7 +53,7 @@ This section list any major frameworks/libraries used to complete the project:
 <!-- APPLICATION -->
 ## How to run the app <a name="Application"></a>
 
-1. Clone the repositiry and pip install `requirement.txt`
+1. Clone the repositiry and pip install `requirements.txt`
 
 2. Run the ETL pipeline that cleans data and stores in database python.
 Using: `data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
