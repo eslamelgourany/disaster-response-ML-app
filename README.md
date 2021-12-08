@@ -55,7 +55,7 @@ This section list any major frameworks/libraries used to complete the project:
 <!-- FILES -->  
 ## File Descriptions <a name="files"></a>
 
-![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/master/structure.png)
+![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/main/data/structure.png)
 
 
 
