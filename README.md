@@ -7,7 +7,7 @@
 1. [About The Project](#about-the-project)
 2. [Project Motivation](#motivation)
 3. [Prerequisites](#Prerequisites)
-4. [Application](#Application)
+4. [How to run the app](#Application)
 5. [File Descriptions](#files)
 6. [License](#License)
 7. [Contact](#Contact)
@@ -47,24 +47,37 @@ This section list any major frameworks/libraries used to complete the project:
 
 
 <!-- APPLICATION -->
-## Application <a name="Application"></a>
+## How to run the app <a name="Application"></a>
 
+1. Clone the repositiry and pip install `requirement.txt`
+
+2. Run the ETL pipeline that cleans data and stores in database python.
+Using: `data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+
+3. Run ML pipeline that trains classifier and saves it.
+Using: `python models/train_classifier.py data/DisasterResponse.db models/model.joblib`
+
+4. Run the server and as well render the HTML pages
+Using: python `run.py` 
+
+
+5. Go to http://0.0.0.0:3001/
 
 <!-- FILES -->  
 ## File Descriptions <a name="files"></a>
 
 ![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/main/data/structure.png)
-run.py: It is the main file for rendering the HTML pages.
-contact_me.html: It has the html code for my contact_me page.
-go.html: It has the design for the giving the output of the classification.
-master.html: It has the design to render the main page.
 
-DisasterResponse.db: Database which has the table for the cleaned data
-disaster_categories.csv: Data that has the categories variants.
-disaster_messages.csv: Table that has the messages that will be used as training and validation set.
-process_data.py: It is the main file used for cleaning the two csv files. (ETL strategy is applied here)
-classifier.pkl: Pickle file that holds the classifier implemented.
-train_classifier: The script that has the features and parameters used for designing the ML model.
+* `run.py`: It is the main file for rendering the HTML pages.
+* `contact_me.html`: It has the html code for my contact_me page.
+* `go.html`: It has the design for the giving the output of the classification.
+* `master.html`: It has the design to render the main page.
+* `DisasterResponse.db`: Database which has the table for the cleaned data
+* `disaster_categories.csv`: Data that has the categories variants.
+* `disaster_messages.csv`: Table that has the messages that will be used as training and validation set.
+* `process_data.py`: It is the main file used for cleaning the two csv files. (ETL strategy is applied here)
+* `classifier.pkl`: Pickle file that holds the classifier implemented.
+* `train_classifier`: The script that has the features and parameters used for designing the ML model.
 
 
 <!-- LICENSE -->
