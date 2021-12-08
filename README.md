@@ -2,8 +2,6 @@
 
 <div id="top"></div>
 
-The demo of the app is online on: 
-
 #### Table of Contents
 
 1. [About The Project](#about-the-project)
@@ -30,7 +28,8 @@ The demo of the app is online on:
 Typically disaster response organizations get millions of communications, within every thousand messages, few might be relevant to the disaster response professionals. Here comes the AI role to be able to filter, and cateogirze the messages.
 
 <!-- TOOLS -->
-### Built With
+
+## Prerequisites <a name="Prerequisites"></a>
 
 This section list any major frameworks/libraries used to complete the project:
 
@@ -49,8 +48,6 @@ This section list any major frameworks/libraries used to complete the project:
 
 
 <!-- INSTALL -->
-
-## Prerequisites <a name="Prerequisites"></a>
 
 
 <!-- APPLICATION -->
