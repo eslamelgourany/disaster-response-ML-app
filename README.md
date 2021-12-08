@@ -44,8 +44,6 @@ This section list any major frameworks/libraries used to complete the project:
 * [Requests](https://docs.python-requests.org/en/latest/)
 * [BootStrap](https://getbootstrap.com/)
 * [HTML](https://html.com/)
-* [herokuapp](https://heroku.com/)
-
 
 <!-- INSTALL -->
 
