@@ -55,23 +55,8 @@ This section list any major frameworks/libraries used to complete the project:
 <!-- FILES -->  
 ## File Descriptions <a name="files"></a>
 
-disaster-response-ML-app/
-├── app/
-│   ├── run.py
-│   └── templates/
-│       ├── contact_me.html
-│       ├── go.html
-│       └── master.html
-├── data/
-│   ├── DisasterResponse.db
-│   ├── disaster_categories.csv
-│   ├── disaster_messages.csv
-│   └── process_data.py
-├── models/
-│   ├── classifier.pkl
-│   └── train_classifier.py
-├── LICENSE
-└── README.md
+![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/master/structure.jpg?raw=true)
+
 
 
 <!-- LICENSE -->
