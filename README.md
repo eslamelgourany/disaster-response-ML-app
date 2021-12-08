@@ -45,8 +45,6 @@ This section list any major frameworks/libraries used to complete the project:
 * [BootStrap](https://getbootstrap.com/)
 * [HTML](https://html.com/)
 
-<!-- INSTALL -->
-
 
 <!-- APPLICATION -->
 ## Application <a name="Application"></a>
@@ -56,7 +54,17 @@ This section list any major frameworks/libraries used to complete the project:
 ## File Descriptions <a name="files"></a>
 
 ![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/main/data/structure.png)
+run.py: It is the main file for rendering the HTML pages.
+contact_me.html: It has the html code for my contact_me page.
+go.html: It has the design for the giving the output of the classification.
+master.html: It has the design to render the main page.
 
+DisasterResponse.db: Database which has the table for the cleaned data
+disaster_categories.csv: Data that has the categories variants.
+disaster_messages.csv: Table that has the messages that will be used as training and validation set.
+process_data.py: It is the main file used for cleaning the two csv files. (ETL strategy is applied here)
+classifier.pkl: Pickle file that holds the classifier implemented.
+train_classifier: The script that has the features and parameters used for designing the ML model.
 
 
 <!-- LICENSE -->
