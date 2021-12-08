@@ -70,7 +70,7 @@ Using: python `run.py`
 <!-- FILES -->  
 ## File Descriptions <a name="files"></a>
 
-![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/main/data/structure.png)
+![alt text](https://github.com/eslamelgourany/disaster-response-ML-app/blob/main/data/file_structure.png)
 
 * `run.py`: It is the main file for rendering the HTML pages.
 * `contact_me.html`: It has the html code for my contact_me page.
