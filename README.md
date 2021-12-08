@@ -82,6 +82,7 @@ Using: python `run.py`
 * `process_data.py`: It is the main file used for cleaning the two csv files. (ETL strategy is applied here)
 * `classifier.pkl`: Pickle file that holds the classifier implemented.
 * `train_classifier`: The script that has the features and parameters used for designing the ML model.
+* `requirements`: It has all the packages needed for running the app.
 
 
 <!-- LICENSE -->
