@@ -21,6 +21,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+## The project is online at: http://disasterresponseclassifier.herokuapp.com/
+
 1. This is a project which is created to demonstrate my Machine Learning skills. It is a project that uses several technologies in the datascience field, starting from the backend development in which Machine learning pipeline is designed and implemented, up to the front end to host the model to be used as application during natural disasters.
 
 2. The data provided are pre-labeled tweets and text messages from real life disasters. These data are prepared using <b>ETL Pipeline</b> and then <b>Machine learning pipeline</b> is used to build a supervised model which learned from the cleaned data.
